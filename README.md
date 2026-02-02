@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kirill 👋
 
-<!--
-**kirilltumanin/Kirilltumanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python and building practical projects step by step.
 
-Here are some ideas to get you started:
+## Interests
+- Automation with Python
+- Telegram bots
+- Backend development
+- Engineering calculations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current goal
+Become a professional Python developer and start earning with programming.
+
+## Projects (in progress)
+- Python Calculator
+- Telegram Bot (coming soon)
+- Engineering tools (future)
