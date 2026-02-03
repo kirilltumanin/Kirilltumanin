@@ -12,6 +12,6 @@ I'm learning Python and building practical projects step by step.
 Become a professional Python developer and start earning with programming.
 
 ## Projects (in progress)
-- Python Calculator
+- Python Calculator ## Status✅ Completed
 - Telegram Bot (coming soon)
 - Engineering tools (future)
