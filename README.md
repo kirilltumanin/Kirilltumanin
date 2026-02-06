@@ -13,5 +13,6 @@ Become a professional Python developer and start earning with programming.
 
 ## Projects (in progress)
 - Python Calculator ## Status✅ Completed
-- Telegram Bot (coming soon)
+- Telegram Bots ## Status✅ Improving & upgrading 🚀  
+A couple of bots are already done; focus now on enhancing functionality and robustness.
 - Engineering tools (future)
